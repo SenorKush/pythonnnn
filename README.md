@@ -1,0 +1,2 @@
+# pythonnnn
+Pseudocode and fllowchart
